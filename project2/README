@@ -1,0 +1,4 @@
+This project is an implementation of a virtual FAT16 file system.
+
+The implementation of this project was purely for learning purposes, this is not
+meant to be used as an actual file system.
